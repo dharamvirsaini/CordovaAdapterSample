@@ -1,0 +1,1 @@
+# CordovaAdapterSample
